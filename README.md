@@ -45,7 +45,7 @@ Predict output for a single image and visualize results
 
 ## PROGRAM
 
-### Name: 212224040101
+### Name: Hariharan S
 
 ### Register Number: 212224040101
 
